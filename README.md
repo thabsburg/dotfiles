@@ -1,4 +1,3 @@
-This repository is used by [Le Wagon](https://www.lewagon.com) students.
 
 ## Toolset
 
